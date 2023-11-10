@@ -1,2 +1,9 @@
-# dataset_ufo
-This is a repository that will be used to EOW12 in Data Wrangling. I will be working with the UFO dataset.
+# dataset_imdb/archive
+### The archive folder contains: 
+ - **data that was used in the making of the final dataset**
+   - *smaller, individual files that were later integrated either horizontally or vertically*
+  
+
+ - **older versions of the final dataset** 
+   - *when the dataset is updated at a later month, the previous data set, that doesn't contain those months, 
+   will be moved here*
