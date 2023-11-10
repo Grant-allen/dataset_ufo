@@ -1,2 +1,2 @@
-# dataset_ufo
-This is a repository that will be used to EOW12 in Data Wrangling. I will be working with the UFO dataset.
+# dataset_imdb/code
+Web scraping code used to create the dataset.
